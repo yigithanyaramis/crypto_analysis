@@ -1,0 +1,65 @@
+    {
+        "base": {
+            "lang": "tr",
+            "validation_message": "Lütfen geçerli bir veri giriniz.",
+            "password_validation_message": "Lütfen en az 3 karakter olan bir şifre giriniz.",
+            "email_validation_message": "Lütfen geçerli bir email adresi giriniz.",
+            "not_found": "404 sayfa bulunamadı.",
+            "error": "Bir hata oluştu.",
+            "banned":"Yasaklandınız."
+        },
+        "login": {
+            "welcome": "Hoşgeldiniz",
+            "please_check_box_term": "Lütfen gizlilik politikasını onaylayınız.",
+            "google_sign_in": "Google ile giriş yap",
+            "privacy_policy_text": "Gizlilik Politikasını okudum ve onaylıyorum."
+        },
+        "home": {
+            "join_now": "Şimdi Katılın",
+            "join_out_telegram_channel": "Telegram Kanalımıza Katılın!",
+            "btc_market_cap": "BTC Market Cap",
+            "btc_price": "BTC Fiyatı",
+            "btc_change_24h": "BTC Change 24H",
+            "btc_total_volume": "BTC Toplam Hacim",
+            "alternative": "Alternatif",
+            "fear_greed_index": "Korku & Açgözlülük Endeksi",
+            "risk": "Ticaret, riski size ait olmak üzere yapılan riskli bir iştir ve kaybetmeyi göze alamayacağınız parayı piyasaya koymayın!",
+            "last_signal": "Son Sinyal",
+            "date": "Tarih"
+        },
+        "profile": {
+            "profile": "Profil",
+            "full_name": "Ad Soyad",
+            "email": "E-Mail",
+            "days_left": "Gün Kaldı",
+            "delete_account": "Hesabımı Sil",
+            "no_vip": "VIP değilsiniz.",
+            "exit": "Çıkış Yap",
+            "yes": "Evet",
+            "close": "Kapat",
+            "are_you_sure": "Bu işlemi gerçekleştirmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+        },
+        "signals": {
+            "signals": "Signals",
+            "risk": "Riski size ait olmak üzere ticaret yapın. Uygulamamız sorumlu olmayacaktır.",
+            "current_price": "Güncel Fiyat",
+            "buy": "Alış",
+            "capital": "Sermaye",
+            "target": "Hedef",
+            "stoploss": "Durdurma",
+            "free": "Ücretsiz",
+            "no_vip": "VIP satın almalısınız."
+        },
+        "vip": {
+            "buy_vip": "VIP Satın Al",
+            "monthly": "Aylık VIP",
+            "information": "VIP Üyelerine Özel\n1-Uzman Ekipler Tarafından Hazırlanmış Analizler.\n2-Birebir İletişim ve Reklamsız Deneyim.\n3-Kasa ve Risk Yönetimi.\n4-Kısa ve Uzun Vadeli Sepetler\n5-Detaylı Proje İncelemeleri",
+            "android_note": "Not: Kripto ile Ödeme yapabilirsiniz.\nDaha fazlası için Telegramdan iletişime geçebilirsiniz."
+        },
+        "news": {
+            "news": "Haberler",
+            "grapichs": "Grafikler",
+            "review": "İncele",
+            "contents": "İçerik"
+        }
+    }

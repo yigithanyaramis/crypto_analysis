@@ -1,0 +1,113 @@
+name: crypto_analysis
+description: Crypto Analysis
+
+#publish_to: 'Yiğithan Yaramış'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #Base
+  crypto: ^3.0.3
+  cupertino_icons: ^1.0.6
+  easy_localization: ^3.0.3
+
+  #State Management
+  mobx: ^2.2.1
+  flutter_mobx: ^2.1.1
+  mobx_codegen: ^2.4.0
+  build_runner: ^2.4.6
+  provider: ^6.1.1
+
+  #POST , GET Dio
+  dio: ^5.3.3
+  json_serializable: ^6.7.1
+  json_annotation: ^4.8.1
+
+  #Cache
+  shared_preferences: ^2.2.2
+
+  #Icon
+  font_awesome_flutter: ^10.6.0
+
+  #Splash
+  flutter_native_splash: ^2.3.5
+
+  #Package Rename
+  package_rename: ^1.5.1
+
+  #Toast
+  fluttertoast: ^8.2.3
+
+  #Firebase
+  firebase_core: ^2.22.0
+  firebase_analytics: ^10.6.4
+  firebase_auth: ^4.13.0
+  google_sign_in: ^6.1.6
+  firebase_messaging: ^14.7.4
+
+  #Push Notification
+  flutter_local_notifications: ^16.1.0
+  onesignal_flutter: ^5.0.3
+
+  #In App Purchase
+  flutter_inapp_purchase: ^5.6.0
+
+  #URL Launcher
+  url_launcher: ^6.2.1
+
+  # Navigation Bar
+  animated_notch_bottom_bar: ^1.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/fonts/
+    - assets/images/
+    - assets/languages/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+
+
+flutter_native_splash:
+  color: "#000000" 
+  color_dark: "#000000" 
+  android_gravity: center
+  ios_content_mode: center
+  image: assets/images/logo_s.png
+  image_dark: assets/images/logo_s.png
+
+package_rename_config:
+  android:
+    app_name: Crypto Analysis
+    package_name: com.yigithanyaramis.cryptoanalysis
+
+  ios:
+    app_name: Crypto Analysis
+    bundle_name: crypto_analysis
+    package_name: com.yigithanyaramis.cryptoanalysis

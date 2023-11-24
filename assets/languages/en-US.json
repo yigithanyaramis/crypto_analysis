@@ -1,0 +1,65 @@
+{
+    "base": {
+        "lang": "en",
+        "validation_message": "Please enter valid data.",
+        "password_validation_message": "Please enter a password with at least 3 characters.",
+        "email_validation_message": "Please enter a valid email address.",
+        "not_found": "404 page not found.",
+        "error": "An error occurred.",
+        "banned":"You are banned."
+    },
+    "login": {
+        "welcome": "Welcome",
+        "please_check_box_term": "Please confirm the privacy policy.",
+        "google_sign_in": "Sign in with Google",
+        "privacy_policy_text": "I have read and accept the Privacy Policy."
+    },
+    "home": {
+        "join_now": "Join Now",
+        "join_out_telegram_channel": "Join Our Telegram Channel!",
+        "btc_market_cap": "BTC Market Cap",
+        "btc_price": "BTC Price",
+        "btc_change_24h": "BTC Change 24H",
+        "btc_total_volume": "BTC Total Volume",
+        "alternative": "Alternative",
+        "fear_greed_index": "Fear & Greed Index",
+        "risk": "Trading is a risky activity undertaken at your own risk, and do not invest money you cannot afford to lose!",
+        "last_signal": "Last Signal",
+        "date":"Date"
+    },
+    "profile": {
+        "profile": "Profile",
+        "full_name": "Full Name",
+        "email": "E-Mail",
+        "days_left": "Days Left",
+        "delete_account": "Delete My Account",
+        "no_vip":"You are not VIP.",
+        "exit":"Sign Out",
+        "yes": "Yes",
+        "close": "Close",
+        "are_you_sure": "Are you sure you want to perform this action? This process cannot be undone."
+    },
+    "signals": {
+        "signals": "Signals",
+        "risk": "Trade at your own risk. Our application will not be responsible.",
+        "current_price": "Current Price",
+        "buy": "Buy",
+        "capital": "Capital",
+        "target": "Target",
+        "stoploss": "Stop Loss",
+        "free": "Free",
+        "no_vip":"You should buy VIP."
+    },
+    "vip": {
+        "buy_vip": "Buy VIP",
+        "monthly": "Monthly VIP",
+        "information": "Exclusive for VIP Members\n1-Analyses Prepared by Expert Teams.\n2-One-on-One Communication and Ad-Free Experience.\n3-Capital and Risk Management.\n4-Short and Long Term Baskets\n5-Detailed Project Reviews",
+        "android_note":"Note: You can pay with crypto.\nFor more, you can contact us on Telegram."
+    },
+    "news": {
+        "news":"News",
+        "grapichs":"Graphics",
+        "review":"Review",
+        "contents":"Contents"
+    }
+}

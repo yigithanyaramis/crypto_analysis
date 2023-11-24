@@ -1,0 +1,61 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const base_lang = 'base.lang';
+  static const base_validation_message = 'base.validation_message';
+  static const base_password_validation_message = 'base.password_validation_message';
+  static const base_email_validation_message = 'base.email_validation_message';
+  static const base_not_found = 'base.not_found';
+  static const base_error = 'base.error';
+  static const base_banned = 'base.banned';
+  static const base = 'base';
+  static const login_welcome = 'login.welcome';
+  static const login_please_check_box_term = 'login.please_check_box_term';
+  static const login_google_sign_in = 'login.google_sign_in';
+  static const login_privacy_policy_text = 'login.privacy_policy_text';
+  static const login = 'login';
+  static const home_join_now = 'home.join_now';
+  static const home_join_out_telegram_channel = 'home.join_out_telegram_channel';
+  static const home_btc_market_cap = 'home.btc_market_cap';
+  static const home_btc_price = 'home.btc_price';
+  static const home_btc_change_24h = 'home.btc_change_24h';
+  static const home_btc_total_volume = 'home.btc_total_volume';
+  static const home_alternative = 'home.alternative';
+  static const home_fear_greed_index = 'home.fear_greed_index';
+  static const home_risk = 'home.risk';
+  static const home_last_signal = 'home.last_signal';
+  static const home_date = 'home.date';
+  static const home = 'home';
+  static const profile_profile = 'profile.profile';
+  static const profile_full_name = 'profile.full_name';
+  static const profile_email = 'profile.email';
+  static const profile_days_left = 'profile.days_left';
+  static const profile_delete_account = 'profile.delete_account';
+  static const profile_no_vip = 'profile.no_vip';
+  static const profile_exit = 'profile.exit';
+  static const profile_yes = 'profile.yes';
+  static const profile_close = 'profile.close';
+  static const profile_are_you_sure = 'profile.are_you_sure';
+  static const profile = 'profile';
+  static const signals_signals = 'signals.signals';
+  static const signals_risk = 'signals.risk';
+  static const signals_current_price = 'signals.current_price';
+  static const signals_buy = 'signals.buy';
+  static const signals_capital = 'signals.capital';
+  static const signals_target = 'signals.target';
+  static const signals_stoploss = 'signals.stoploss';
+  static const signals_free = 'signals.free';
+  static const signals_no_vip = 'signals.no_vip';
+  static const signals = 'signals';
+  static const vip_buy_vip = 'vip.buy_vip';
+  static const vip_monthly = 'vip.monthly';
+  static const vip_information = 'vip.information';
+  static const vip_android_note = 'vip.android_note';
+  static const vip = 'vip';
+  static const news_news = 'news.news';
+  static const news_grapichs = 'news.grapichs';
+  static const news_review = 'news.review';
+  static const news_contents = 'news.contents';
+  static const news = 'news';
+
+}
